@@ -89,10 +89,11 @@
   
 ## :shipit: Interested in
 - **Backend** :white_check_mark:
-- **Blockchain** :white_check_mark: 
 
 <details>
 <summary><h2> :bar_chart: Some statistics (Click me -_-) </h2></summary>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Levganster&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levganster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
