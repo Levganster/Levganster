@@ -7,7 +7,7 @@
 
 ## :link: Contacts 
 -  **[Habr career](https://career.habr.com/l_wardo)**
--  **[Telegram]([https://t.me/demamaxim](https://t.me/L_Rardo))**
+-  **[Telegram](https://t.me/L_Rardo)**
 
 
 ## 💡 Languages
