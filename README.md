@@ -2,10 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFE873&background=30699892&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Python+;Backend+and+ML+developer)](https://git.io/typing-svg)
+
 ## 🔗 Contacts
 - [Habr career](https://career.habr.com/l_wardo)
 - [Telegram](https://t.me/L_Rardo)
 - [Email](mailto:kuzmitch73son@gmail.com)
+
+
+## 🚢 Interested in
+- ML
+- Backend
+- IoT
 
 ## 💡 Languages
 
@@ -55,10 +63,6 @@
   - GraphQL ⚛
 </details>
 
-## 🚢 Interested in
-- ML
-- Backend
-- IoT
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
